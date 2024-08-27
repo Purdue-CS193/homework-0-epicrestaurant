@@ -4,9 +4,9 @@
 - Hands-on Coding Activities
 - And Hopefully More to Come! 
 
-`markdown
+*markdown
 create a cool highlighted block if i'm a pro coder!
-`
+*
 _let's try that again..._
 
 ```
